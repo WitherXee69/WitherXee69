@@ -21,5 +21,5 @@ Currently:
 💬 *“The code I write and the stories I tell — both come from the same heart.”*
 
 📫 Reach me:  
-[[Gmail](thisitha.2004.sidartha@gmail.com)] | [[LinkedIn](https://www.linkedin.com/in/thisitha-sidartha-6218a4214/)] | [[GitHub](https://github.com/WitherXee69)]
+[[Gmail](mailto:thisitha.2004.sidartha@gmail.com)] | [[LinkedIn](https://www.linkedin.com/in/thisitha-sidartha-6218a4214/)] | [[GitHub](https://github.com/WitherXee69)]
 
