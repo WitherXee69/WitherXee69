@@ -13,12 +13,14 @@ When I’m not coding, I’m writing stories, building worlds, or vibing to clas
 Currently:
 - 🏫 Preparing to join NIBM’s Software Engineering Diploma  
 - 🐍 Learning Python deeply + working on real-world projects  
-- 🧠 Exploring Java, C, and web scraping next  
+- 🧠 Exploring Java, C++, and web scraping next  
 - 🌍 Dreaming of building software that makes people feel seen
 
 ---
 
 💬 *“The code I write and the stories I tell — both come from the same heart.”*
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WitherXee69&theme=radical)
 
 📫 Reach me:  
 [[Gmail](mailto:thisitha.2004.sidartha@gmail.com)] | [[LinkedIn](https://www.linkedin.com/in/thisitha-sidartha-6218a4214/)] | [[GitHub](https://github.com/WitherXee69)]
