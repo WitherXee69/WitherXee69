@@ -20,8 +20,6 @@ Currently:
 
 💬 *“The code I write and the stories I tell — both come from the same heart.”*
 
-![Top Languages](https://github-readme-stats-tau-sepia-83.vercel.app/api/top-langs/?username=WitherXee69&theme=radical)
-
 📫 Reach me:  
 [[Gmail](mailto:thisitha.2004.sidartha@gmail.com)] | [[LinkedIn](https://www.linkedin.com/in/thisitha-sidartha-6218a4214/)] | [[GitHub](https://github.com/WitherXee69)]
 
