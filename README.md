@@ -7,7 +7,7 @@ My journey started with curiosity and turned into creation:
 - 🔊 I built **VISE**, my first voice-based chatbot  
 - 🛠️ I created **LEO**, a Python hacking toolkit  
 - 🧬 I’m developing **Nyrox**, my own Python based interpreted language
-- 💻 And I'm developing **NEXA**, Universal shell that can handle both Linux, Windows and its own unique commands 
+- 💻 And I'm developing **NEXA**, A shell that can handle both Linux, Windows and its own unique commands 
 
 When I’m not coding, I’m writing stories, building worlds, or vibing to classic soft rock (70s–90s 🎸).
 
