@@ -6,12 +6,13 @@ I'm a passionate learner exploring the world of software development one project
 My journey started with curiosity and turned into creation:  
 - 🔊 I built **VISE**, my first voice-based chatbot  
 - 🛠️ I created **LEO**, a Python hacking toolkit  
-- 🧬 And I’m developing **Nyrox**, my own interpreted language
+- 🧬 I’m developing **Nyrox**, my own Python based interpreted language
+- 💻 And I'm developing **NEXA**, Universal shell that can handle both Linux, Windows and its own unique commands 
 
 When I’m not coding, I’m writing stories, building worlds, or vibing to classic soft rock (70s–90s 🎸).
 
 Currently:
-- 🏫 Preparing to join NIBM’s Software Engineering Diploma  
+- 🏫 Currently studying Software Engineering Diploma at NIBM  
 - 🐍 Learning Python deeply + working on real-world projects  
 - 🧠 Exploring Java, C++, and web scraping next  
 - 🌍 Dreaming of building software that makes people feel seen
